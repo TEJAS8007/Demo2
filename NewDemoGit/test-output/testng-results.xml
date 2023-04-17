@@ -2,40 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5694" started-at="2023-04-17T09:40:29 IST" finished-at="2023-04-17T09:40:34 IST">
+  <suite name="Default suite" duration-ms="13774" started-at="2023-04-17T10:53:07 IST" finished-at="2023-04-17T10:53:21 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5694" started-at="2023-04-17T09:40:29 IST" finished-at="2023-04-17T09:40:34 IST">
-      <class name="Demo.DemoWebShop">
-        <test-method status="PASS" signature="broweser()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="broweser" is-config="true" duration-ms="2795" started-at="2023-04-17T09:40:26 IST" finished-at="2023-04-17T09:40:29 IST">
+    <test name="Default test" duration-ms="13774" started-at="2023-04-17T10:53:07 IST" finished-at="2023-04-17T10:53:21 IST">
+      <class name="Demo.Demoblaze">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:Demo.Demoblaze@543c6f6d]" name="Browser" is-config="true" duration-ms="2944" started-at="2023-04-17T10:53:04 IST" finished-at="2023-04-17T10:53:07 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- broweser -->
-        <test-method status="PASS" signature="getUrl()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="getUrl" is-config="true" duration-ms="2915" started-at="2023-04-17T09:40:29 IST" finished-at="2023-04-17T09:40:31 IST">
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:Demo.Demoblaze@543c6f6d]" name="getUrl" is-config="true" duration-ms="3482" started-at="2023-04-17T10:53:07 IST" finished-at="2023-04-17T10:53:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getUrl -->
-        <test-method status="PASS" signature="maximize()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="maximize" is-config="true" duration-ms="170" started-at="2023-04-17T09:40:31 IST" finished-at="2023-04-17T09:40:32 IST">
+        <test-method status="PASS" signature="maxim()[pri:0, instance:Demo.Demoblaze@543c6f6d]" name="maxim" is-config="true" duration-ms="196" started-at="2023-04-17T10:53:10 IST" finished-at="2023-04-17T10:53:11 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- maximize -->
-        <test-method status="PASS" signature="cookies()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="cookies" is-config="true" duration-ms="80" started-at="2023-04-17T09:40:32 IST" finished-at="2023-04-17T09:40:32 IST">
+        </test-method> <!-- maxim -->
+        <test-method status="PASS" signature="cookies()[pri:0, instance:Demo.Demoblaze@543c6f6d]" name="cookies" is-config="true" duration-ms="44" started-at="2023-04-17T10:53:11 IST" finished-at="2023-04-17T10:53:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cookies -->
-        <test-method status="PASS" signature="login()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="login" duration-ms="2154" started-at="2023-04-17T09:40:32 IST" finished-at="2023-04-17T09:40:34 IST">
+        <test-method status="PASS" signature="login()[pri:0, instance:Demo.Demoblaze@543c6f6d]" name="login" duration-ms="9986" started-at="2023-04-17T10:53:11 IST" finished-at="2023-04-17T10:53:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="getScreen()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="getScreen" is-config="true" duration-ms="313" started-at="2023-04-17T09:40:34 IST" finished-at="2023-04-17T09:40:34 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getScreen -->
-        <test-method status="PASS" signature="close()[pri:0, instance:Demo.DemoWebShop@51c8530f]" name="close" is-config="true" duration-ms="318" started-at="2023-04-17T09:40:34 IST" finished-at="2023-04-17T09:40:35 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-      </class> <!-- Demo.DemoWebShop -->
+      </class> <!-- Demo.Demoblaze -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
