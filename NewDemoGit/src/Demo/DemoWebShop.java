@@ -22,6 +22,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class DemoWebShop {
@@ -69,7 +70,7 @@ public class DemoWebShop {
 		}
 	}
 
-	@Test(data Provider="getData")
+	@Test(dataProvider="getData")
 	public void login(String fn,String ln,String em,String ps,String ps1)
 	{
 		log.info("Login Action");
@@ -80,6 +81,14 @@ public class DemoWebShop {
 		driver.findElement(By.name("Password")).sendKeys(ps);
 		driver.findElement(By.name("ConfirmPassword")).sendKeys(ps1);
 		driver.findElement(By.name("register-button")).click();
+		driver.navigate().back();
+		driver.findElement(By.name("FirstName")).clear();
+		driver.findElement(By.name("LastName")).clear();
+		driver.findElement(By.name("Email")).clear();
+		driver.findElement(By.name("Password")).clear();
+		driver.findElement(By.name("ConfirmPassword")).clear();
+	
+		
 		log.info("Login Action Complete");
 	}
 	
@@ -106,10 +115,10 @@ public class DemoWebShop {
 		 obj[0][4]="Pass@123";
 		
 		obj[1][0]="Roshan";
-		 obj[2][0]="Aware";
-		 obj[3][0]="AAA@123gmail.com";
-		 obj[4][0]="Pass@123";
-		 obj[5][0]="Pass@123";
+		 obj[1][1]="Aware";
+		 obj[1][2]="AAA@123gmail.com";
+		 obj[1][3]="Pass@123";
+		 obj[1][4]="Pass@123";
 		
 		return obj;
 	}
