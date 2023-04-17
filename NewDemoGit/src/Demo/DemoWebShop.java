@@ -107,7 +107,7 @@ public class DemoWebShop {
 	@DataProvider
 	public Object[][] getData()
 	{
-	     Object[][] obj=new Object[2][5];
+	     Object[][] obj=new Object[3][5];
 		 obj[0][0]="Tejas";
 		 obj[0][1]="Aware";
 		 obj[0][2]="AAA@123gmail.com";
@@ -119,6 +119,12 @@ public class DemoWebShop {
 		 obj[1][2]="AAA@123gmail.com";
 		 obj[1][3]="Pass@123";
 		 obj[1][4]="Pass@123";
+		
+		obj[2][0]="Roshan";
+		 obj[2][1]="Aware";
+		 obj[2][2]="AAA@123gmail.com";
+		 obj[2][3]="Pass@123";
+		 obj[2][4]="Pass@123";
 		
 		return obj;
 	}
