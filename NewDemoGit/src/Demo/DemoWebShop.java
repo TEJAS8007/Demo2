@@ -69,16 +69,16 @@ public class DemoWebShop {
 		}
 	}
 
-	@Test
-	public void login()
+	@Test(data Provider="getData")
+	public void login(String fn,String ln,String em,String ps,String ps1)
 	{
 		log.info("Login Action");
 		driver.findElement(By.name("Gender")).click();
-		driver.findElement(By.name("FirstName")).sendKeys("Tejas");
-		driver.findElement(By.name("LastName")).sendKeys("Aware");
-		driver.findElement(By.name("Email")).sendKeys("Tejas@123gmail.com");
-		driver.findElement(By.name("Password")).sendKeys("Pass@123");
-		driver.findElement(By.name("ConfirmPassword")).sendKeys("Pass@123");
+		driver.findElement(By.name("FirstName")).sendKeys(fn);
+		driver.findElement(By.name("LastName")).sendKeys(ln);
+		driver.findElement(By.name("Email")).sendKeys(em);
+		driver.findElement(By.name("Password")).sendKeys(ps);
+		driver.findElement(By.name("ConfirmPassword")).sendKeys(ps1);
 		driver.findElement(By.name("register-button")).click();
 		log.info("Login Action Complete");
 	}
@@ -95,9 +95,24 @@ public class DemoWebShop {
 	{
 		driver.close();
 	}
-	
-	
-	
+	@DataProvider
+	public Object[][] getData()
+	{
+	     Object[][] obj=new Object[2][5];
+		 obj[0][0]="Tejas";
+		 obj[0][1]="Aware";
+		 obj[0][2]="AAA@123gmail.com";
+		 obj[0][3]="Pass@123";
+		 obj[0][4]="Pass@123";
+		
+		obj[1][0]="Roshan";
+		 obj[2][0]="Aware";
+		 obj[3][0]="AAA@123gmail.com";
+		 obj[4][0]="Pass@123";
+		 obj[5][0]="Pass@123";
+		
+		return obj;
+	}
 	
 	
 	
