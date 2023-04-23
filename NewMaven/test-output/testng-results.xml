@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47808" started-at="2023-04-22T18:14:47 IST" finished-at="2023-04-22T18:15:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47808" started-at="2023-04-22T18:14:47 IST" finished-at="2023-04-22T18:15:35 IST">
+      <class name="Other.New1">
+        <test-method status="PASS" signature="login()[pri:1, instance:Other.New1@11758f2a]" name="login" duration-ms="8039" started-at="2023-04-22T18:14:47 IST" finished-at="2023-04-22T18:14:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="rashetty()[pri:2, instance:Other.New1@11758f2a]" name="rashetty" duration-ms="23602" started-at="2023-04-22T18:14:55 IST" finished-at="2023-04-22T18:15:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rashetty -->
+        <test-method status="PASS" signature="redbus()[pri:3, instance:Other.New1@11758f2a]" name="redbus" duration-ms="16114" started-at="2023-04-22T18:15:19 IST" finished-at="2023-04-22T18:15:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redbus -->
+      </class> <!-- Other.New1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

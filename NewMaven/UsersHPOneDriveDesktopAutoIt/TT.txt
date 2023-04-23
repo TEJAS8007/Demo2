@@ -1,0 +1,1011 @@
+INFO	2023-04-16 13:29:48,942	0	Other.Xml	[main]	Url Passed
+INFO	2023-04-16 13:29:49,333	391	Other.Xml	[main]	__utmz
+INFO	2023-04-16 13:29:49,334	392	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,334	392	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,334	392	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,334	392	Other.Xml	[main]	78382081.1681631988.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+INFO	2023-04-16 13:29:49,335	393	Other.Xml	[main]	Mon Oct 16 01:29:48 IST 2023
+INFO	2023-04-16 13:29:49,342	400	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,342	400	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,343	401	Other.Xml	[main]	__RequestVerificationToken
+INFO	2023-04-16 13:29:49,343	401	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,345	403	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,345	403	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,345	403	Other.Xml	[main]	2WOwW6llPhkarrVJPOVXsNkplR8jtlmzhz8NMtWsgQQZoLEYrp34oe4f31Ed42IKoSy_TjhIk8xFjG5NTc4AERG6FkeHkHZeQQbx8m2QWdQ1
+INFO	2023-04-16 13:29:49,346	404	Other.Xml	[main]	
+INFO	2023-04-16 13:29:49,346	404	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:49,346	404	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,347	405	Other.Xml	[main]	Nop.customer
+INFO	2023-04-16 13:29:49,347	405	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,347	405	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,347	405	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,348	406	Other.Xml	[main]	dae01251-044f-474b-b1db-e38bb894d92b
+INFO	2023-04-16 13:29:49,348	406	Other.Xml	[main]	Mon Apr 15 13:29:28 IST 2024
+INFO	2023-04-16 13:29:49,348	406	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:49,348	406	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,349	407	Other.Xml	[main]	__utmt
+INFO	2023-04-16 13:29:49,349	407	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,349	407	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,349	407	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,350	408	Other.Xml	[main]	1
+INFO	2023-04-16 13:29:49,350	408	Other.Xml	[main]	Sun Apr 16 13:39:48 IST 2023
+INFO	2023-04-16 13:29:49,350	408	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,350	408	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,351	409	Other.Xml	[main]	ARRAffinitySameSite
+INFO	2023-04-16 13:29:49,351	409	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,351	409	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,351	409	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,352	410	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-16 13:29:49,352	410	Other.Xml	[main]	
+INFO	2023-04-16 13:29:49,352	410	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:49,352	410	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:49,352	410	Other.Xml	[main]	__utmb
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	78382081.1.10.1681631988
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	Sun Apr 16 13:59:48 IST 2023
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,354	412	Other.Xml	[main]	__utmc
+INFO	2023-04-16 13:29:49,355	413	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,355	413	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,355	413	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,356	414	Other.Xml	[main]	78382081
+INFO	2023-04-16 13:29:49,357	415	Other.Xml	[main]	
+INFO	2023-04-16 13:29:49,357	415	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,358	416	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,358	416	Other.Xml	[main]	__utma
+INFO	2023-04-16 13:29:49,358	416	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,361	419	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,361	419	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,361	419	Other.Xml	[main]	78382081.1226161119.1681631988.1681631988.1681631988.1
+INFO	2023-04-16 13:29:49,361	419	Other.Xml	[main]	Mon May 20 13:29:48 IST 2024
+INFO	2023-04-16 13:29:49,362	420	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,363	421	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:49,364	422	Other.Xml	[main]	ARRAffinity
+INFO	2023-04-16 13:29:49,364	422	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:49,364	422	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:49,364	422	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:49,364	422	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-16 13:29:49,364	422	Other.Xml	[main]	
+INFO	2023-04-16 13:29:49,365	423	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:49,365	423	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:49,384	442	Other.Xml	[main]	Main Login
+DEBUG	2023-04-16 13:29:49,386	444	Other.Xml	[main]	Gender Button Click
+DEBUG	2023-04-16 13:29:49,660	718	Other.Xml	[main]	First Name
+DEBUG	2023-04-16 13:29:50,065	1123	Other.Xml	[main]	Last Name
+DEBUG	2023-04-16 13:29:50,368	1426	Other.Xml	[main]	Email
+DEBUG	2023-04-16 13:29:50,587	1645	Other.Xml	[main]	PassWord
+DEBUG	2023-04-16 13:29:50,799	1857	Other.Xml	[main]	Confirm Password
+DEBUG	2023-04-16 13:29:50,985	2043	Other.Xml	[main]	Submit
+INFO	2023-04-16 13:29:52,752	3810	Other.Xml	[main]	Login Complete on DemoWebShop
+INFO	2023-04-16 13:29:52,907	3965	Other.Xml	[main]	__utmz
+INFO	2023-04-16 13:29:52,907	3965	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,907	3965	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,907	3965	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,907	3965	Other.Xml	[main]	78382081.1681631988.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+INFO	2023-04-16 13:29:52,908	3966	Other.Xml	[main]	Mon Oct 16 01:29:52 IST 2023
+INFO	2023-04-16 13:29:52,908	3966	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,908	3966	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,908	3966	Other.Xml	[main]	__RequestVerificationToken
+INFO	2023-04-16 13:29:52,908	3966	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,909	3967	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,909	3967	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,909	3967	Other.Xml	[main]	2WOwW6llPhkarrVJPOVXsNkplR8jtlmzhz8NMtWsgQQZoLEYrp34oe4f31Ed42IKoSy_TjhIk8xFjG5NTc4AERG6FkeHkHZeQQbx8m2QWdQ1
+INFO	2023-04-16 13:29:52,909	3967	Other.Xml	[main]	
+INFO	2023-04-16 13:29:52,909	3967	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:52,910	3968	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,910	3968	Other.Xml	[main]	Nop.customer
+INFO	2023-04-16 13:29:52,910	3968	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,910	3968	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,910	3968	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,911	3969	Other.Xml	[main]	dae01251-044f-474b-b1db-e38bb894d92b
+INFO	2023-04-16 13:29:52,911	3969	Other.Xml	[main]	Mon Apr 15 13:29:50 IST 2024
+INFO	2023-04-16 13:29:52,911	3969	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:52,911	3969	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,912	3970	Other.Xml	[main]	__utmt
+INFO	2023-04-16 13:29:52,912	3970	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,912	3970	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,912	3970	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,912	3970	Other.Xml	[main]	1
+INFO	2023-04-16 13:29:52,912	3970	Other.Xml	[main]	Sun Apr 16 13:39:48 IST 2023
+INFO	2023-04-16 13:29:52,913	3971	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,913	3971	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,913	3971	Other.Xml	[main]	ARRAffinitySameSite
+INFO	2023-04-16 13:29:52,913	3971	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,913	3971	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,914	3972	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,914	3972	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-16 13:29:52,914	3972	Other.Xml	[main]	
+INFO	2023-04-16 13:29:52,914	3972	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:52,914	3972	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:52,915	3973	Other.Xml	[main]	__utmb
+INFO	2023-04-16 13:29:52,915	3973	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,915	3973	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,915	3973	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,915	3973	Other.Xml	[main]	78382081.2.10.1681631988
+INFO	2023-04-16 13:29:52,915	3973	Other.Xml	[main]	Sun Apr 16 13:59:52 IST 2023
+INFO	2023-04-16 13:29:52,916	3974	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,916	3974	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,916	3974	Other.Xml	[main]	__utmc
+INFO	2023-04-16 13:29:52,916	3974	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,916	3974	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,916	3974	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,918	3976	Other.Xml	[main]	78382081
+INFO	2023-04-16 13:29:52,918	3976	Other.Xml	[main]	
+INFO	2023-04-16 13:29:52,919	3977	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,919	3977	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,920	3978	Other.Xml	[main]	__utma
+INFO	2023-04-16 13:29:52,920	3978	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,920	3978	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,920	3978	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,920	3978	Other.Xml	[main]	78382081.1226161119.1681631988.1681631988.1681631988.1
+INFO	2023-04-16 13:29:52,921	3979	Other.Xml	[main]	Mon May 20 13:29:52 IST 2024
+INFO	2023-04-16 13:29:52,921	3979	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,921	3979	Other.Xml	[main]	false
+INFO	2023-04-16 13:29:52,922	3980	Other.Xml	[main]	ARRAffinity
+INFO	2023-04-16 13:29:52,922	3980	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-16 13:29:52,923	3981	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:29:52,923	3981	Other.Xml	[main]	/
+INFO	2023-04-16 13:29:52,923	3981	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-16 13:29:52,923	3981	Other.Xml	[main]	
+INFO	2023-04-16 13:29:52,923	3981	Other.Xml	[main]	true
+INFO	2023-04-16 13:29:52,923	3981	Other.Xml	[main]	true
+INFO	2023-04-16 13:30:26,769	37827	Other.Xml	[main]	Mercury Registration
+INFO	2023-04-16 13:30:26,825	37883	Other.Xml	[main]	14
+INFO	2023-04-16 13:30:26,826	37884	Other.Xml	[main]	usprivacy
+INFO	2023-04-16 13:30:26,826	37884	Other.Xml	[main]	demo.guru99.com
+INFO	2023-04-16 13:30:26,827	37885	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,827	37885	Other.Xml	[main]	1---
+INFO	2023-04-16 13:30:26,828	37886	Other.Xml	[main]	Fri May 10 13:30:19 IST 2024
+INFO	2023-04-16 13:30:26,828	37886	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,828	37886	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,829	37887	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,829	37887	Other.Xml	[main]	_pbjs_userid_consent_data
+INFO	2023-04-16 13:30:26,829	37887	Other.Xml	[main]	demo.guru99.com
+INFO	2023-04-16 13:30:26,830	37888	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,830	37888	Other.Xml	[main]	6683316680106290
+INFO	2023-04-16 13:30:26,830	37888	Other.Xml	[main]	Tue May 16 13:30:09 IST 2023
+INFO	2023-04-16 13:30:26,831	37889	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,831	37889	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,832	37890	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,832	37890	Other.Xml	[main]	_cc_id
+INFO	2023-04-16 13:30:26,833	37891	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,833	37891	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,833	37891	Other.Xml	[main]	ab1aa4787b7050fc806d4ee0b456292
+INFO	2023-04-16 13:30:26,834	37892	Other.Xml	[main]	Thu Jan 11 13:30:21 IST 2024
+INFO	2023-04-16 13:30:26,836	37894	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,836	37894	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,841	37899	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,841	37899	Other.Xml	[main]	__gpi
+INFO	2023-04-16 13:30:26,842	37900	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,842	37900	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,842	37900	Other.Xml	[main]	UID=00000bf604604fca:T=1681632017:RT=1681632017:S=ALNI_MYRXuT2o5Hk_xBgkGaItry-XkdcMQ
+INFO	2023-04-16 13:30:26,843	37901	Other.Xml	[main]	Fri May 10 13:30:17 IST 2024
+INFO	2023-04-16 13:30:26,843	37901	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,844	37902	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,844	37902	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,845	37903	Other.Xml	[main]	_gat_gtag_UA_1248015_24
+INFO	2023-04-16 13:30:26,845	37903	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,845	37903	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,846	37904	Other.Xml	[main]	1
+INFO	2023-04-16 13:30:26,846	37904	Other.Xml	[main]	Sun Apr 16 13:31:12 IST 2023
+INFO	2023-04-16 13:30:26,847	37905	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,848	37906	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,849	37907	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,851	37909	Other.Xml	[main]	__gads
+INFO	2023-04-16 13:30:26,851	37909	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,851	37909	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,852	37910	Other.Xml	[main]	ID=3000491bf6ba843c:T=1681632017:S=ALNI_MY_vI4BqCFI_mnlg2ZytdeCaaK3HA
+INFO	2023-04-16 13:30:26,852	37910	Other.Xml	[main]	Fri May 10 13:30:17 IST 2024
+INFO	2023-04-16 13:30:26,852	37910	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,853	37911	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,853	37911	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,853	37911	Other.Xml	[main]	_gid
+INFO	2023-04-16 13:30:26,853	37911	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,854	37912	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,854	37912	Other.Xml	[main]	GA1.2.1127137940.1681632013
+INFO	2023-04-16 13:30:26,854	37912	Other.Xml	[main]	Mon Apr 17 13:30:12 IST 2023
+INFO	2023-04-16 13:30:26,854	37912	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,857	37915	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,858	37916	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,858	37916	Other.Xml	[main]	_sharedid
+INFO	2023-04-16 13:30:26,859	37917	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,860	37918	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,860	37918	Other.Xml	[main]	0e8614c0-f9d9-453a-9f4f-c59ae3a9a5e6
+INFO	2023-04-16 13:30:26,861	37919	Other.Xml	[main]	Mon Apr 15 13:30:09 IST 2024
+INFO	2023-04-16 13:30:26,861	37919	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,861	37919	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,862	37920	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,862	37920	Other.Xml	[main]	geo-location
+INFO	2023-04-16 13:30:26,863	37921	Other.Xml	[main]	demo.guru99.com
+INFO	2023-04-16 13:30:26,863	37921	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,864	37922	Other.Xml	[main]	{"country":"IN","region":"MH"}
+INFO	2023-04-16 13:30:26,864	37922	Other.Xml	[main]	Mon Apr 17 13:30:18 IST 2023
+INFO	2023-04-16 13:30:26,865	37923	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,866	37924	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,866	37924	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,866	37924	Other.Xml	[main]	lotame_domain_check
+INFO	2023-04-16 13:30:26,867	37925	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,867	37925	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,868	37926	Other.Xml	[main]	guru99.com
+INFO	2023-04-16 13:30:26,868	37926	Other.Xml	[main]	Sun Apr 16 13:30:29 IST 2023
+INFO	2023-04-16 13:30:26,869	37927	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,869	37927	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,870	37928	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,871	37929	Other.Xml	[main]	ccpa-dau
+INFO	2023-04-16 13:30:26,871	37929	Other.Xml	[main]	demo.guru99.com
+INFO	2023-04-16 13:30:26,871	37929	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,872	37930	Other.Xml	[main]	true
+INFO	2023-04-16 13:30:26,872	37930	Other.Xml	[main]	Mon Apr 17 13:30:22 IST 2023
+INFO	2023-04-16 13:30:26,872	37930	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,873	37931	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,873	37931	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,874	37932	Other.Xml	[main]	panoramaId_expiry
+INFO	2023-04-16 13:30:26,874	37932	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,874	37932	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,875	37933	Other.Xml	[main]	1681718421692
+INFO	2023-04-16 13:30:26,877	37935	Other.Xml	[main]	Mon Apr 17 13:30:22 IST 2023
+INFO	2023-04-16 13:30:26,877	37935	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,878	37936	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,879	37937	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,879	37937	Other.Xml	[main]	_ga
+INFO	2023-04-16 13:30:26,879	37937	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,879	37937	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,883	37941	Other.Xml	[main]	GA1.2.903915830.1681632013
+INFO	2023-04-16 13:30:26,883	37941	Other.Xml	[main]	Mon May 20 13:30:12 IST 2024
+INFO	2023-04-16 13:30:26,886	37944	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,886	37944	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,886	37944	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,887	37945	Other.Xml	[main]	cto_bundle
+INFO	2023-04-16 13:30:26,887	37945	Other.Xml	[main]	.guru99.com
+INFO	2023-04-16 13:30:26,887	37945	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-16 13:30:26,888	37946	Other.Xml	[main]	daplpF9sTjJheGJ1Nnc1Y3ElMkZiS1Bxdm9oaTJ3RnFnSk9WdTZZU0FaOWljMDlCZG83c0ljQzZiVFh0M2dkQnZjTkZBNUNhUHZyZiUyQkJTaTFCZUVxakduV0pla09ybkZ4ZTdUT3hCZ3pZWEFURDh0MG5leTJFVWViMFBENWVMNnY4UHFUc2ZyYjFMM0c2R2lPa29PY0hjU2VERVVRJTNEJTNE
+INFO	2023-04-16 13:30:26,890	37948	Other.Xml	[main]	Fri May 10 13:30:23 IST 2024
+INFO	2023-04-16 13:30:26,890	37948	Other.Xml	[main]	/
+INFO	2023-04-16 13:30:26,890	37948	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,890	37948	Other.Xml	[main]	false
+INFO	2023-04-16 13:30:26,890	37948	Other.Xml	[main]	Registration Code
+INFO	2023-04-16 13:30:34,548	45606	Other.Xml	[main]	Registration Complete
+INFO	2023-04-17 08:13:20,981	0	Other.Xml	[main]	Url Passed
+INFO	2023-04-17 08:13:21,411	430	Other.Xml	[main]	__utmz
+INFO	2023-04-17 08:13:21,412	431	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,412	431	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,413	432	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,413	432	Other.Xml	[main]	78382081.1681699401.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+INFO	2023-04-17 08:13:21,413	432	Other.Xml	[main]	Mon Oct 16 20:13:20 IST 2023
+INFO	2023-04-17 08:13:21,419	438	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,419	438	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,420	439	Other.Xml	[main]	__RequestVerificationToken
+INFO	2023-04-17 08:13:21,420	439	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,420	439	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,421	440	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,421	440	Other.Xml	[main]	2BCpBNIy--EQXTFFgOq5OQMzsccP8eMUHBeXQavMJDiXUoRx83K_3C-Qdd2MiZxSc8nrjuHLbkzrxlG7TudmNfYHnIX0yPyFFLxOm2a7T4k1
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	Nop.customer
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,422	441	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,423	442	Other.Xml	[main]	25ee0405-e12c-47a6-bb80-6494277dc4ec
+INFO	2023-04-17 08:13:21,423	442	Other.Xml	[main]	Tue Apr 16 08:13:19 IST 2024
+INFO	2023-04-17 08:13:21,423	442	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:21,424	443	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,424	443	Other.Xml	[main]	__utmt
+INFO	2023-04-17 08:13:21,424	443	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,425	444	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,426	445	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,429	448	Other.Xml	[main]	1
+INFO	2023-04-17 08:13:21,429	448	Other.Xml	[main]	Mon Apr 17 08:23:20 IST 2023
+INFO	2023-04-17 08:13:21,429	448	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,429	448	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,430	449	Other.Xml	[main]	ARRAffinitySameSite
+INFO	2023-04-17 08:13:21,430	449	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,437	456	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,437	456	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,437	456	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-17 08:13:21,437	456	Other.Xml	[main]	
+INFO	2023-04-17 08:13:21,437	456	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:21,438	457	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:21,439	458	Other.Xml	[main]	__utmb
+INFO	2023-04-17 08:13:21,439	458	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,439	458	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,440	459	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,440	459	Other.Xml	[main]	78382081.1.10.1681699401
+INFO	2023-04-17 08:13:21,440	459	Other.Xml	[main]	Mon Apr 17 08:43:20 IST 2023
+INFO	2023-04-17 08:13:21,440	459	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,440	459	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,441	460	Other.Xml	[main]	__utmc
+INFO	2023-04-17 08:13:21,442	461	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,442	461	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,442	461	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,442	461	Other.Xml	[main]	78382081
+INFO	2023-04-17 08:13:21,442	461	Other.Xml	[main]	
+INFO	2023-04-17 08:13:21,442	461	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,443	462	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	__utma
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	78382081.1388690261.1681699401.1681699401.1681699401.1
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	Tue May 21 08:13:20 IST 2024
+INFO	2023-04-17 08:13:21,444	463	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,445	464	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:21,446	465	Other.Xml	[main]	ARRAffinity
+INFO	2023-04-17 08:13:21,446	465	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:21,446	465	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:21,446	465	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:21,446	465	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-17 08:13:21,447	466	Other.Xml	[main]	
+INFO	2023-04-17 08:13:21,447	466	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:21,447	466	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:21,462	481	Other.Xml	[main]	Main Login
+DEBUG	2023-04-17 08:13:21,462	481	Other.Xml	[main]	Gender Button Click
+DEBUG	2023-04-17 08:13:21,613	632	Other.Xml	[main]	First Name
+DEBUG	2023-04-17 08:13:21,777	796	Other.Xml	[main]	Last Name
+DEBUG	2023-04-17 08:13:21,946	965	Other.Xml	[main]	Email
+DEBUG	2023-04-17 08:13:22,149	1168	Other.Xml	[main]	PassWord
+DEBUG	2023-04-17 08:13:22,407	1426	Other.Xml	[main]	Confirm Password
+DEBUG	2023-04-17 08:13:22,672	1691	Other.Xml	[main]	Submit
+INFO	2023-04-17 08:13:24,328	3347	Other.Xml	[main]	Login Complete on DemoWebShop
+INFO	2023-04-17 08:13:24,447	3466	Other.Xml	[main]	__utmz
+INFO	2023-04-17 08:13:24,447	3466	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,458	3477	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,459	3478	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,460	3479	Other.Xml	[main]	78382081.1681699401.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+INFO	2023-04-17 08:13:24,461	3480	Other.Xml	[main]	Mon Oct 16 20:13:24 IST 2023
+INFO	2023-04-17 08:13:24,461	3480	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,462	3481	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,462	3481	Other.Xml	[main]	__RequestVerificationToken
+INFO	2023-04-17 08:13:24,463	3482	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,463	3482	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,464	3483	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,464	3483	Other.Xml	[main]	2BCpBNIy--EQXTFFgOq5OQMzsccP8eMUHBeXQavMJDiXUoRx83K_3C-Qdd2MiZxSc8nrjuHLbkzrxlG7TudmNfYHnIX0yPyFFLxOm2a7T4k1
+INFO	2023-04-17 08:13:24,464	3483	Other.Xml	[main]	
+INFO	2023-04-17 08:13:24,464	3483	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:24,465	3484	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,465	3484	Other.Xml	[main]	Nop.customer
+INFO	2023-04-17 08:13:24,467	3486	Other.Xml	[main]	demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,468	3487	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,468	3487	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,469	3488	Other.Xml	[main]	25ee0405-e12c-47a6-bb80-6494277dc4ec
+INFO	2023-04-17 08:13:24,469	3488	Other.Xml	[main]	Tue Apr 16 08:13:23 IST 2024
+INFO	2023-04-17 08:13:24,469	3488	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:24,470	3489	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,471	3490	Other.Xml	[main]	__utmt
+INFO	2023-04-17 08:13:24,471	3490	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,471	3490	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,471	3490	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,471	3490	Other.Xml	[main]	1
+INFO	2023-04-17 08:13:24,471	3490	Other.Xml	[main]	Mon Apr 17 08:23:20 IST 2023
+INFO	2023-04-17 08:13:24,472	3491	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,472	3491	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,473	3492	Other.Xml	[main]	ARRAffinitySameSite
+INFO	2023-04-17 08:13:24,473	3492	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,474	3493	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,474	3493	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,474	3493	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-17 08:13:24,474	3493	Other.Xml	[main]	
+INFO	2023-04-17 08:13:24,474	3493	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:24,474	3493	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:24,475	3494	Other.Xml	[main]	__utmb
+INFO	2023-04-17 08:13:24,475	3494	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,475	3494	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,475	3494	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,475	3494	Other.Xml	[main]	78382081.2.10.1681699401
+INFO	2023-04-17 08:13:24,476	3495	Other.Xml	[main]	Mon Apr 17 08:43:24 IST 2023
+INFO	2023-04-17 08:13:24,476	3495	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,476	3495	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,476	3495	Other.Xml	[main]	__utmc
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	78382081
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,477	3496	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,478	3497	Other.Xml	[main]	__utma
+INFO	2023-04-17 08:13:24,478	3497	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,478	3497	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,478	3497	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,478	3497	Other.Xml	[main]	78382081.1388690261.1681699401.1681699401.1681699401.1
+INFO	2023-04-17 08:13:24,478	3497	Other.Xml	[main]	Tue May 21 08:13:24 IST 2024
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	ARRAffinity
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	.demowebshop.tricentis.com
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:24,479	3498	Other.Xml	[main]	0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+INFO	2023-04-17 08:13:24,480	3499	Other.Xml	[main]	
+INFO	2023-04-17 08:13:24,480	3499	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:24,480	3499	Other.Xml	[main]	true
+INFO	2023-04-17 08:13:31,857	10876	Other.Xml	[main]	Mercury Registration
+INFO	2023-04-17 08:13:31,875	10894	Other.Xml	[main]	10
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	lotame_domain_check
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	guru99.com
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	Mon Apr 17 08:13:40 IST 2023
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,876	10895	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	panoramaId_expiry
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	1681785811869
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	Tue Apr 18 08:13:32 IST 2023
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,877	10896	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,878	10897	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,878	10897	Other.Xml	[main]	_pbjs_userid_consent_data
+INFO	2023-04-17 08:13:31,879	10898	Other.Xml	[main]	demo.guru99.com
+INFO	2023-04-17 08:13:31,879	10898	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,879	10898	Other.Xml	[main]	6683316680106290
+INFO	2023-04-17 08:13:31,879	10898	Other.Xml	[main]	Wed May 17 08:13:28 IST 2023
+INFO	2023-04-17 08:13:31,879	10898	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,879	10898	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,880	10899	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,880	10899	Other.Xml	[main]	_cc_id
+INFO	2023-04-17 08:13:31,880	10899	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,880	10899	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,880	10899	Other.Xml	[main]	b736f6b1a5f603076fb564db46b6e107
+INFO	2023-04-17 08:13:31,880	10899	Other.Xml	[main]	Fri Jan 12 08:13:30 IST 2024
+INFO	2023-04-17 08:13:31,881	10900	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,881	10900	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,881	10900	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,881	10900	Other.Xml	[main]	__gpi
+INFO	2023-04-17 08:13:31,881	10900	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	UID=00000bf63ea9f897:T=1681699410:RT=1681699410:S=ALNI_MYLXaNGIukKdPqwEiBHrfAxWR5g0A
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	Sat May 11 08:13:30 IST 2024
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,882	10901	Other.Xml	[main]	_gat_gtag_UA_1248015_24
+INFO	2023-04-17 08:13:31,883	10902	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,883	10902	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,883	10902	Other.Xml	[main]	1
+INFO	2023-04-17 08:13:31,883	10902	Other.Xml	[main]	Mon Apr 17 08:14:28 IST 2023
+INFO	2023-04-17 08:13:31,883	10902	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	_ga
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	GA1.2.1570278672.1681699409
+INFO	2023-04-17 08:13:31,884	10903	Other.Xml	[main]	Tue May 21 08:13:28 IST 2024
+INFO	2023-04-17 08:13:31,885	10904	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,885	10904	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,885	10904	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,885	10904	Other.Xml	[main]	__gads
+INFO	2023-04-17 08:13:31,885	10904	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,885	10904	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	ID=12142e0e33823d6f:T=1681699410:S=ALNI_MZYUhcc8Pu29-SHhkjUSitjaRRAPQ
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	Sat May 11 08:13:30 IST 2024
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	_gid
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,886	10905	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	GA1.2.504501643.1681699409
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	Tue Apr 18 08:13:28 IST 2023
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	_sharedid
+INFO	2023-04-17 08:13:31,887	10906	Other.Xml	[main]	.guru99.com
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	baecaa6e-1fff-40f5-856c-fdfcc57633f4
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	Tue Apr 16 08:13:28 IST 2024
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	/
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	false
+INFO	2023-04-17 08:13:31,888	10907	Other.Xml	[main]	Registration Code
+INFO	2023-04-17 08:13:36,988	16007	Other.Xml	[main]	Registration Complete
+INFO	2023-04-22 10:27:15,688	0	Other.New1	[main]	Click
+INFO	2023-04-22 10:27:15,934	246	Other.New1	[main]	Click
+INFO	2023-04-22 10:27:16,123	435	Other.New1	[main]	Click
+INFO	2023-04-22 10:27:16,342	654	Other.New1	[main]	Click
+INFO	2023-04-22 10:27:16,545	857	Other.New1	[main]	Click
+INFO	2023-04-22 10:27:16,733	1045	Other.New1	[main]	Click
+INFO	2023-04-22 10:28:44,754	0	Other.New1	[main]	Click
+INFO	2023-04-22 10:28:44,991	237	Other.New1	[main]	Click
+INFO	2023-04-22 10:28:45,365	611	Other.New1	[main]	Click
+INFO	2023-04-22 10:28:45,764	1010	Other.New1	[main]	Click
+INFO	2023-04-22 10:28:46,101	1347	Other.New1	[main]	Click
+INFO	2023-04-22 10:28:46,446	1692	Other.New1	[main]	Click
+INFO	2023-04-22 10:29:55,715	0	Other.New1	[main]	Click
+INFO	2023-04-22 10:29:55,950	235	Other.New1	[main]	Click
+INFO	2023-04-22 10:29:56,138	423	Other.New1	[main]	Click
+INFO	2023-04-22 10:29:56,343	628	Other.New1	[main]	Click
+INFO	2023-04-22 10:29:56,544	829	Other.New1	[main]	Click
+INFO	2023-04-22 10:29:56,731	1016	Other.New1	[main]	Click
+INFO	2023-04-22 10:31:37,454	0	Other.New1	[main]	Click
+INFO	2023-04-22 10:31:37,749	295	Other.New1	[main]	Click
+INFO	2023-04-22 10:31:38,040	586	Other.New1	[main]	Click
+INFO	2023-04-22 10:31:38,258	804	Other.New1	[main]	Click
+INFO	2023-04-22 10:31:38,449	995	Other.New1	[main]	Click
+INFO	2023-04-22 10:31:38,641	1187	Other.New1	[main]	Click
+INFO	2023-04-22 10:34:50,628	0	Other.New1	[main]	Click
+INFO	2023-04-22 10:34:50,912	284	Other.New1	[main]	Click
+INFO	2023-04-22 10:34:51,158	530	Other.New1	[main]	Click
+INFO	2023-04-22 10:34:51,404	776	Other.New1	[main]	Click
+INFO	2023-04-22 10:34:51,642	1014	Other.New1	[main]	Click
+INFO	2023-04-22 10:34:51,890	1262	Other.New1	[main]	Click
+INFO	2023-04-22 10:36:22,896	0	Other.New1	[main]	Click
+INFO	2023-04-22 10:36:23,150	254	Other.New1	[main]	Click
+INFO	2023-04-22 10:36:23,334	438	Other.New1	[main]	Click
+INFO	2023-04-22 10:36:23,539	643	Other.New1	[main]	Click
+INFO	2023-04-22 10:36:23,744	848	Other.New1	[main]	Click
+INFO	2023-04-22 10:36:23,930	1034	Other.New1	[main]	Click
+INFO	2023-04-22 11:14:47,651	0	Other.New1	[main]	Click
+INFO	2023-04-22 11:14:47,947	296	Other.New1	[main]	Click
+INFO	2023-04-22 11:14:48,136	485	Other.New1	[main]	Click
+INFO	2023-04-22 11:14:48,405	754	Other.New1	[main]	Click
+INFO	2023-04-22 11:14:48,621	970	Other.New1	[main]	Click
+INFO	2023-04-22 11:14:48,797	1146	Other.New1	[main]	Click
+INFO	2023-04-22 11:16:24,353	96702	Other.New1	[main]	27
+INFO	2023-04-22 11:16:24,412	96761	Other.New1	[main]	20
+INFO	2023-04-22 11:16:24,473	96822	Other.New1	[main]	5
+INFO	2023-04-22 11:16:26,207	98556	Other.New1	[main]	[81489F465771F752BC713F983846ED2E, 0BDA704E390979A0C743D2A1BA377A82, 2B882DAEB5D1AC71B6A7A0F1B70E11BA, C47933277B432D1A2D602AE0A3182B10, 0F75661581A3030E3EA39D378E6B2753, 890FCCE380F84C414A48B520E7D5D391]
+INFO	2023-04-22 11:16:26,229	98578	Other.New1	[main]	Practice Page
+INFO	2023-04-22 11:16:26,238	98587	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-22 11:17:56,344	188693	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-22 11:17:56,362	188711	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-22 11:17:56,441	188790	Other.New1	[main]	www.udemy.com
+INFO	2023-04-22 11:17:56,451	188800	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-22 11:17:56,536	188885	Other.New1	[main]	Practice Page
+INFO	2023-04-22 11:17:56,551	188900	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-22 11:18:14,575	206924	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-22 11:18:14,624	206973	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-22 11:18:14,700	207049	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-22 11:18:14,716	207065	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-22 11:18:14,716	207065	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-22 18:13:05,616	0	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:05,786	170	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:05,965	349	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:06,118	502	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:06,286	670	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:06,420	804	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:14,644	9028	Other.New1	[main]	27
+INFO	2023-04-22 18:13:14,679	9063	Other.New1	[main]	20
+INFO	2023-04-22 18:13:14,709	9093	Other.New1	[main]	5
+INFO	2023-04-22 18:13:16,542	10926	Other.New1	[main]	[A2513F4BE9CB5E7212899ADEB9537CFC, F65FBC08C905EAF1D11B182316BFB9D3, 828B4858FC7E294878C2862B2D627FE1, 3A48BA7B4770B229DE4D7AF03C616CFF, 08FC64858770BABE7433525A90428993, 4FDF5971A1E4BF5B575795ACF0D148DB]
+INFO	2023-04-22 18:13:16,568	10952	Other.New1	[main]	Practice Page
+INFO	2023-04-22 18:13:16,578	10962	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-22 18:13:28,809	23193	Other.New1	[main]	Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+INFO	2023-04-22 18:13:28,818	23202	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-22 18:13:38,561	32945	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-22 18:13:38,567	32951	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-22 18:13:39,025	33409	Other.New1	[main]	Practice Page
+INFO	2023-04-22 18:13:39,033	33417	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-22 18:13:39,185	33569	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-22 18:13:39,194	33578	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-22 18:13:39,194	33578	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-22 18:13:39,449	33833	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-22 18:13:39,455	33839	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-22 18:13:52,674	47058	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:53,261	47645	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:53,827	48211	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:54,437	48821	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:55,001	49385	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:55,615	49999	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:56,210	50594	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:56,809	51193	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:57,403	51787	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:57,998	52382	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:58,581	52965	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:59,159	53543	Other.New1	[main]	Click
+INFO	2023-04-22 18:13:59,743	54127	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:00,305	54689	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:00,865	55249	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:01,463	55847	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:54,837	0	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:54,999	162	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:55,110	273	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:55,245	408	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:55,395	558	Other.New1	[main]	Click
+INFO	2023-04-22 18:14:55,521	684	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:02,486	7649	Other.New1	[main]	27
+INFO	2023-04-22 18:15:02,540	7703	Other.New1	[main]	20
+INFO	2023-04-22 18:15:02,600	7763	Other.New1	[main]	5
+INFO	2023-04-22 18:15:04,740	9903	Other.New1	[main]	[A919E3EEAF50B8A49CC0F95FD94BCB41, 066CF91AD4AC376E97BFF65ECD9CFA11, E6D2BBB53F5005A1E2689CEF66EF5AE4, 55C9C06F9A59262DE87AEE43093AC061, E84E0718BBCEE575EE5FDD40E9E43013, 19B0CC1DEAF55AFBC48CBC2E03D1B941]
+INFO	2023-04-22 18:15:04,760	9923	Other.New1	[main]	Practice Page
+INFO	2023-04-22 18:15:04,767	9930	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-22 18:15:07,305	12468	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-22 18:15:07,313	12476	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-22 18:15:14,981	20144	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-22 18:15:14,987	20150	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-22 18:15:14,988	20151	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-22 18:15:19,029	24192	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-22 18:15:19,036	24199	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-22 18:15:19,145	24308	Other.New1	[main]	Practice Page
+INFO	2023-04-22 18:15:19,159	24322	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-22 18:15:19,270	24433	Other.New1	[main]	Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+INFO	2023-04-22 18:15:19,279	24442	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-22 18:15:30,488	35651	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:31,097	36260	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:31,711	36874	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:32,338	37501	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:32,906	38069	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:33,500	38663	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:34,111	39274	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:34,717	39880	Other.New1	[main]	Click
+INFO	2023-04-22 18:15:35,280	40443	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:13,719	0	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:14,224	505	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:14,610	891	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:14,916	1197	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:15,132	1413	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:15,469	1750	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:22,750	9031	Other.New1	[main]	27
+INFO	2023-04-22 21:27:22,826	9107	Other.New1	[main]	20
+INFO	2023-04-22 21:27:22,886	9167	Other.New1	[main]	5
+INFO	2023-04-22 21:27:25,044	11325	Other.New1	[main]	[51335D8CE1513A737E16D02C6532B15C, 74303DA88A82826000B1EDABE6A34CB5, 543D50C60454B4A593895A6EA27FA691, 75040022F9A76E187E55149137591255, ED885A2EDC25EF793B6CDCF2D2C29655, A52F4D0C0799682095D23C1CFC56C7F9]
+INFO	2023-04-22 21:27:25,077	11358	Other.New1	[main]	Practice Page
+INFO	2023-04-22 21:27:25,088	11369	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-22 21:27:26,264	12545	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-22 21:27:26,276	12557	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-22 21:27:44,558	30839	Other.New1	[main]	Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+INFO	2023-04-22 21:27:44,580	30861	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-22 21:27:44,730	31011	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-22 21:27:44,750	31031	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-22 21:27:44,915	31196	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-22 21:27:44,927	31208	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-22 21:27:44,927	31208	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-22 21:27:45,170	31451	Other.New1	[main]	Practice Page
+INFO	2023-04-22 21:27:45,179	31460	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-22 21:27:54,461	40742	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:55,034	41315	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:55,614	41895	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:56,238	42519	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:56,830	43111	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:57,409	43690	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:57,988	44269	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:58,568	44849	Other.New1	[main]	Click
+INFO	2023-04-22 21:27:59,154	45435	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:01,866	48147	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:02,506	48787	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:03,085	49366	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:03,665	49946	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:04,245	50526	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:04,819	51100	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:05,395	51676	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:05,978	52259	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:06,555	52836	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:07,148	53429	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:07,723	54004	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:08,425	54706	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:09,140	55421	Other.New1	[main]	Click
+INFO	2023-04-22 21:28:09,769	56050	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:32,286	0	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:32,775	489	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:33,068	782	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:33,265	979	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:33,471	1185	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:33,654	1368	Other.New1	[main]	Click
+INFO	2023-04-23 11:30:42,307	10021	Other.New1	[main]	27
+INFO	2023-04-23 11:30:42,429	10143	Other.New1	[main]	20
+INFO	2023-04-23 11:30:42,597	10311	Other.New1	[main]	5
+INFO	2023-04-23 11:30:45,136	12850	Other.New1	[main]	[25CAB17CB6755E27C5212200CEA43ED0, 42064CDC1FCE99300C7536CCA79B4434, A1B4A6131915BD0DF8A00BD2DE2AECE6, C242E2BAEF3B0F588FD030B656FC50C3, 834490A7ACD66E72366ADE6DCF7B3C95, 63D952933A31C95CEE5199787413F764]
+INFO	2023-04-23 11:30:45,160	12874	Other.New1	[main]	Practice Page
+INFO	2023-04-23 11:30:45,171	12885	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-23 11:30:47,172	14886	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-23 11:30:47,186	14900	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-23 11:30:48,586	16300	Other.New1	[main]	Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+INFO	2023-04-23 11:30:48,608	16322	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-23 11:30:53,302	21016	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-23 11:30:53,312	21026	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-23 11:30:53,540	21254	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-23 11:30:53,558	21272	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-23 11:30:53,559	21273	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-23 11:30:53,879	21593	Other.New1	[main]	Practice Page
+INFO	2023-04-23 11:30:53,892	21606	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-23 11:31:03,684	31398	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:04,361	32075	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:04,979	32693	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:05,605	33319	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:06,235	33949	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:06,868	34582	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:07,525	35239	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:08,154	35868	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:08,795	36509	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:09,426	37140	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:10,044	37758	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:10,656	38370	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:11,296	39010	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:11,970	39684	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:52,978	1	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:53,409	432	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:53,826	849	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:54,156	1179	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:54,470	1493	Other.New1	[main]	Click
+INFO	2023-04-23 11:31:54,800	1823	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:03,084	10107	Other.New1	[main]	27
+INFO	2023-04-23 11:32:03,159	10182	Other.New1	[main]	20
+INFO	2023-04-23 11:32:03,223	10246	Other.New1	[main]	5
+INFO	2023-04-23 11:32:05,749	12772	Other.New1	[main]	[AFBDAA82E05D8ACC873204E967A61464, 1829C547114DB6763E08477ECB00A45D, 847209A17CDF6C83BCA541951A7B863F, 296903C52E04824D0697123D26730F4D, 1740FDED1C135BDC60CA7BD07093261E, 0B2C99A85662DB52356AAC5937D8997B]
+INFO	2023-04-23 11:32:05,771	12794	Other.New1	[main]	Practice Page
+INFO	2023-04-23 11:32:05,783	12806	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-23 11:32:07,506	14529	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-23 11:32:07,519	14542	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-23 11:32:12,047	19070	Other.New1	[main]	Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+INFO	2023-04-23 11:32:12,057	19080	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-23 11:32:15,462	22485	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-23 11:32:15,471	22494	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-23 11:32:16,322	23345	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-23 11:32:16,333	23356	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-23 11:32:16,333	23356	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-23 11:32:17,008	24031	Other.New1	[main]	Practice Page
+INFO	2023-04-23 11:32:17,019	24042	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-23 11:32:27,371	34394	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:28,039	35062	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:28,680	35703	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:29,257	36280	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:29,831	36854	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:30,412	37435	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:30,988	38011	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:31,565	38588	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:32,128	39151	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:36,923	43946	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:37,550	44573	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:38,126	45149	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:38,692	45715	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:39,272	46295	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:39,899	46922	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:40,550	47573	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:41,288	48311	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:41,879	48902	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:42,734	49757	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:43,420	50443	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:44,152	51175	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:44,725	51748	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:45,574	52597	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:46,164	53187	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:46,775	53798	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:47,566	54589	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:48,207	55230	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:49,000	56023	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:49,670	56693	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:50,343	57366	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:51,035	58058	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:51,723	58746	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:52,391	59414	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:53,062	60085	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:53,737	60760	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:54,519	61542	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:55,097	62120	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:55,753	62776	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:56,468	63491	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:57,074	64097	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:57,784	64807	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:58,485	65508	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:59,062	66085	Other.New1	[main]	Click
+INFO	2023-04-23 11:32:59,730	66753	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:00,385	67408	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:01,023	68046	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:01,718	68741	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:02,414	69437	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:03,116	70139	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:03,815	70838	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:04,491	71514	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:05,124	72147	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:05,708	72731	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:06,287	73310	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:06,914	73937	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:07,545	74568	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:08,194	75217	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:08,821	75844	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:09,449	76472	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:10,137	77160	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:10,781	77804	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:11,427	78450	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:12,091	79114	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:12,752	79775	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:13,345	80368	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:13,970	80993	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:14,602	81625	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:15,257	82280	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:15,831	82854	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:16,499	83522	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:17,122	84145	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:17,696	84719	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:18,286	85309	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:18,960	85983	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:19,616	86639	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:20,272	87295	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:20,891	87914	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:21,513	88536	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:22,095	89118	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:22,724	89747	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:23,386	90409	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:24,044	91067	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:24,719	91742	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:25,388	92411	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:26,049	93072	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:26,632	93655	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:27,214	94237	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:27,784	94807	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:28,410	95433	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:29,073	96096	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:29,701	96724	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:30,347	97370	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:30,978	98001	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:31,648	98671	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:32,306	99329	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:32,963	99986	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:33,632	100655	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:34,285	101308	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:34,913	101936	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:35,558	102581	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:36,173	103196	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:36,789	103812	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:37,402	104425	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:38,029	105052	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:38,673	105696	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:39,303	106326	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:39,920	106943	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:40,601	107624	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:41,282	108305	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:41,909	108932	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:42,541	109564	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:43,186	110209	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:43,846	110869	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:44,459	111482	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:45,077	112100	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:45,724	112747	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:46,349	113372	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:46,933	113956	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:47,545	114568	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:48,362	115385	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:49,009	116032	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:49,656	116679	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:50,227	117250	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:50,797	117820	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:51,427	118450	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:51,997	119020	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:52,630	119653	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:53,277	120300	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:53,910	120933	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:54,555	121578	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:55,214	122237	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:55,825	122848	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:56,446	123469	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:57,080	124103	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:57,697	124720	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:58,311	125334	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:58,911	125934	Other.New1	[main]	Click
+INFO	2023-04-23 11:33:59,529	126552	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:00,143	127166	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:00,770	127793	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:01,391	128414	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:02,013	129036	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:02,614	129637	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:03,238	130261	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:03,850	130873	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:04,466	131489	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:05,101	132124	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:05,716	132739	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:06,334	133357	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:06,948	133971	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:07,569	134592	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:08,176	135199	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:08,755	135778	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:09,411	136434	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:10,166	137189	Other.New1	[main]	Click
+INFO	2023-04-23 11:34:10,841	137864	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:32,849	0	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:33,113	264	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:33,499	650	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:33,762	913	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:34,014	1165	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:34,266	1417	Other.New1	[main]	Click
+INFO	2023-04-23 11:47:42,637	9788	Other.New1	[main]	27
+INFO	2023-04-23 11:47:42,696	9847	Other.New1	[main]	20
+INFO	2023-04-23 11:47:42,758	9909	Other.New1	[main]	5
+INFO	2023-04-23 11:47:45,200	12351	Other.New1	[main]	[814185C1DB2CBD338CECA27377C125B1, 0BA58483A7CB521926BEB57E31AB9A6F, 61AC2FC64E1C6046914EDF161564E9C5, D17168BD778781B91FA07F8A91D3C72A, FFFA56D0BCDEF86C50A4C5291259021C, 63609BDEE2A7AD6BEFCAE442C69C99C4]
+INFO	2023-04-23 11:47:45,232	12383	Other.New1	[main]	Practice Page
+INFO	2023-04-23 11:47:45,244	12395	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/
+INFO	2023-04-23 11:47:46,239	13390	Other.New1	[main]	Apache JMeter - Apache JMeter™
+INFO	2023-04-23 11:47:46,255	13406	Other.New1	[main]	https://jmeter.apache.org/
+INFO	2023-04-23 11:48:01,770	28921	Other.New1	[main]	Appium Mobile Automation Testing from Scratch + Frameworks Tutorial | Udemy
+INFO	2023-04-23 11:48:01,799	28950	Other.New1	[main]	https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/?referralCode=C46BF551F5B9EAF08E10
+INFO	2023-04-23 11:48:01,953	29104	Other.New1	[main]	The World's Most Popular API Testing Tool | SoapUI
+INFO	2023-04-23 11:48:01,982	29133	Other.New1	[main]	https://www.soapui.org/
+INFO	2023-04-23 11:48:02,255	29406	Other.New1	[main]	REST API Tutorial
+INFO	2023-04-23 11:48:02,266	29417	Other.New1	[main]	https://www.restapitutorial.com/
+INFO	2023-04-23 11:48:02,266	29417	Other.New1	[main]	Rest Api Window Opened
+INFO	2023-04-23 11:48:02,454	29605	Other.New1	[main]	Practice Page
+INFO	2023-04-23 11:48:02,467	29618	Other.New1	[main]	https://rahulshettyacademy.com/AutomationPractice/#
+INFO	2023-04-23 11:48:12,677	39828	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:13,257	40408	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:13,837	40988	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:14,403	41554	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:14,960	42111	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:15,534	42685	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:16,105	43256	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:16,667	43818	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:17,249	44400	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:22,054	49205	Other.New1	[main]	Click
+INFO	2023-04-23 11:48:32,142	59293	Other.New1	[main]	https://demowebshop.tricentis.com/register
+INFO	2023-04-23 11:48:42,279	69430	Other.New1	[main]	6
+INFO	2023-04-23 11:48:42,281	69432	Other.New1	[main]	_pbjs_userid_consent_data
+INFO	2023-04-23 11:48:42,284	69435	Other.New1	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-23 11:48:42,284	69435	Other.New1	[main]	demo.guru99.com
+INFO	2023-04-23 11:48:42,285	69436	Other.New1	[main]	/
+INFO	2023-04-23 11:48:42,286	69437	Other.New1	[main]	6683316680106290
+INFO	2023-04-23 11:48:42,286	69437	Other.New1	[main]	Tue May 23 11:48:37 IST 2023
+INFO	2023-04-23 11:48:42,322	69473	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,322	69473	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,323	69474	Other.New1	[main]	_gat_gtag_UA_1248015_24
+INFO	2023-04-23 11:48:42,324	69475	Other.New1	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-23 11:48:42,324	69475	Other.New1	[main]	.guru99.com
+INFO	2023-04-23 11:48:42,325	69476	Other.New1	[main]	/
+INFO	2023-04-23 11:48:42,325	69476	Other.New1	[main]	1
+INFO	2023-04-23 11:48:42,326	69477	Other.New1	[main]	Sun Apr 23 11:49:38 IST 2023
+INFO	2023-04-23 11:48:42,326	69477	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,327	69478	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,327	69478	Other.New1	[main]	_ga
+INFO	2023-04-23 11:48:42,328	69479	Other.New1	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-23 11:48:42,328	69479	Other.New1	[main]	.guru99.com
+INFO	2023-04-23 11:48:42,329	69480	Other.New1	[main]	/
+INFO	2023-04-23 11:48:42,329	69480	Other.New1	[main]	GA1.2.165237798.1682230718
+INFO	2023-04-23 11:48:42,331	69482	Other.New1	[main]	Mon May 27 11:48:38 IST 2024
+INFO	2023-04-23 11:48:42,332	69483	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,333	69484	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,333	69484	Other.New1	[main]	PHPSESSID
+INFO	2023-04-23 11:48:42,334	69485	Other.New1	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-23 11:48:42,334	69485	Other.New1	[main]	demo.guru99.com
+INFO	2023-04-23 11:48:42,335	69486	Other.New1	[main]	/
+INFO	2023-04-23 11:48:42,336	69487	Other.New1	[main]	25cf75cc0425c00be984416924cb3d9a
+INFO	2023-04-23 11:48:42,336	69487	Other.New1	[main]	
+INFO	2023-04-23 11:48:42,337	69488	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,337	69488	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,338	69489	Other.New1	[main]	_gid
+INFO	2023-04-23 11:48:42,339	69490	Other.New1	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-23 11:48:42,340	69491	Other.New1	[main]	.guru99.com
+INFO	2023-04-23 11:48:42,341	69492	Other.New1	[main]	/
+INFO	2023-04-23 11:48:42,341	69492	Other.New1	[main]	GA1.2.756651167.1682230718
+INFO	2023-04-23 11:48:42,342	69493	Other.New1	[main]	Mon Apr 24 11:48:38 IST 2023
+INFO	2023-04-23 11:48:42,343	69494	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,344	69495	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,344	69495	Other.New1	[main]	_sharedid
+INFO	2023-04-23 11:48:42,346	69497	Other.New1	[main]	class org.openqa.selenium.Cookie
+INFO	2023-04-23 11:48:42,347	69498	Other.New1	[main]	.guru99.com
+INFO	2023-04-23 11:48:42,349	69500	Other.New1	[main]	/
+INFO	2023-04-23 11:48:42,350	69501	Other.New1	[main]	4b1f2119-5b58-4f5c-857b-05c27f1c58ca
+INFO	2023-04-23 11:48:42,351	69502	Other.New1	[main]	Mon Apr 22 11:48:37 IST 2024
+INFO	2023-04-23 11:48:42,355	69506	Other.New1	[main]	false
+INFO	2023-04-23 11:48:42,360	69511	Other.New1	[main]	false
+INFO	2023-04-23 11:48:52,703	79854	Other.New1	[main]	12
+INFO	2023-04-23 11:48:52,769	79920	Other.New1	[main]	11
+INFO	2023-04-23 11:48:52,769	79920	Other.New1	[main]	11
+INFO	2023-04-23 11:48:52,825	79976	Other.New1	[main]	26
+INFO	2023-04-23 11:48:52,825	79976	Other.New1	[main]	37
+INFO	2023-04-23 11:48:52,868	80019	Other.New1	[main]	29
+INFO	2023-04-23 11:48:52,870	80021	Other.New1	[main]	66
+INFO	2023-04-23 11:48:52,913	80064	Other.New1	[main]	10
+INFO	2023-04-23 11:48:52,913	80064	Other.New1	[main]	76
+INFO	2023-04-23 11:48:52,962	80113	Other.New1	[main]	41
+INFO	2023-04-23 11:48:52,963	80114	Other.New1	[main]	117
+INFO	2023-04-23 11:48:53,010	80161	Other.New1	[main]	55
+INFO	2023-04-23 11:48:53,010	80161	Other.New1	[main]	172
+INFO	2023-04-23 11:48:53,052	80203	Other.New1	[main]	25
+INFO	2023-04-23 11:48:53,052	80203	Other.New1	[main]	197
+INFO	2023-04-23 11:48:53,100	80251	Other.New1	[main]	0
+INFO	2023-04-23 11:48:53,101	80252	Other.New1	[main]	197
+INFO	2023-04-23 11:48:53,150	80301	Other.New1	[main]	5
+INFO	2023-04-23 11:48:53,150	80301	Other.New1	[main]	202
+INFO	2023-04-23 11:48:53,237	80388	Other.New1	[main]	0
+INFO	2023-04-23 11:48:53,320	80471	Other.New1	[main]	2
+INFO	2023-04-23 11:48:53,395	80546	Other.New1	[main]	1
+INFO	2023-04-23 11:48:53,444	80595	Other.New1	[main]	1
+INFO	2023-04-23 11:48:53,495	80646	Other.New1	[main]	2
+INFO	2023-04-23 11:48:53,542	80693	Other.New1	[main]	4
+INFO	2023-04-23 11:48:53,587	80738	Other.New1	[main]	4
+INFO	2023-04-23 11:48:53,635	80786	Other.New1	[main]	0
+INFO	2023-04-23 11:48:53,681	80832	Other.New1	[main]	0

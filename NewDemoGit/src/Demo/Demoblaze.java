@@ -69,7 +69,7 @@ public class Demoblaze {
 		
 		driver.findElement(By.xpath("//*[@id=\"signin2\"]")).click();//signup Button
 		Thread.sleep(1000);
-		driver.findElement(By.id("sign-username")).sendKeys("Tejas@081");
+		driver.findElement(By.id("sign-username")).sendKeys("Tejas@0812");
 		driver.findElement(By.id("sign-password")).sendKeys("Pass@123");
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//*[@id=\"signInModal\"]/div/div/div[3]/button[2]")).click();
@@ -78,10 +78,12 @@ public class Demoblaze {
 		Thread.sleep(1000);
 		driver.findElement(By.xpath("//*[@id=\"login2\"]")).click();//login Button
 		Thread.sleep(1000);
-		driver.findElement(By.id("loginusername")).sendKeys("Tejas@081");
+		driver.findElement(By.id("loginusername")).sendKeys("Tejas@0812");
 		driver.findElement(By.id("loginpassword")).sendKeys("Pass@123");
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//*[@id=\"logInModal\"]/div/div/div[3]/button[2]")).click();
+		
+		
 		
 	}
 

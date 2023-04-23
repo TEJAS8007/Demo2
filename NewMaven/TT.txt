@@ -1,0 +1,984 @@
+Url Passed
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681631297.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 01:18:17 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+2E8wVquvBRAAVn9Guz-VijDdHakeq3q9iJ8P1hiWTYKsUsc3Za3ARoEpEK3xMxzrkxS7rDK2PpDE5Z8ZUTSxyDj0Qn8gnQ_da6FovXWexyQ1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+147a20dc-1da6-438f-8a34-233b2d35a4c1
+Mon Apr 15 13:18:15 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Sun Apr 16 13:28:17 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1.10.1681631297
+Sun Apr 16 13:48:17 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.573990043.1681631297.1681631297.1681631297.1
+Mon May 20 13:18:17 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Main Login
+Gender Button Click
+First Name
+Last Name
+Email
+PassWord
+Confirm Password
+Submit
+Login Complete on DemoWebShop
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681631297.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 01:18:21 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+2E8wVquvBRAAVn9Guz-VijDdHakeq3q9iJ8P1hiWTYKsUsc3Za3ARoEpEK3xMxzrkxS7rDK2PpDE5Z8ZUTSxyDj0Qn8gnQ_da6FovXWexyQ1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+147a20dc-1da6-438f-8a34-233b2d35a4c1
+Mon Apr 15 13:18:20 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Sun Apr 16 13:28:17 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.2.10.1681631297
+Sun Apr 16 13:48:21 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.573990043.1681631297.1681631297.1681631297.1
+Mon May 20 13:18:21 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Mercury Registration
+10
+lotame_domain_check
+.guru99.com
+class org.openqa.selenium.Cookie
+guru99.com
+Sun Apr 16 13:18:37 IST 2023
+/
+false
+false
+panoramaId_expiry
+.guru99.com
+class org.openqa.selenium.Cookie
+1681717708475
+Mon Apr 17 13:18:29 IST 2023
+/
+false
+false
+_pbjs_userid_consent_data
+demo.guru99.com
+class org.openqa.selenium.Cookie
+6683316680106290
+Tue May 16 13:18:24 IST 2023
+/
+false
+false
+_cc_id
+.guru99.com
+class org.openqa.selenium.Cookie
+b922028c12f65ab76b53765e57ce8cf1
+Thu Jan 11 13:18:28 IST 2024
+/
+false
+false
+__gpi
+.guru99.com
+class org.openqa.selenium.Cookie
+UID=00000bf603a4bb6d:T=1681631306:RT=1681631306:S=ALNI_Mb3t2xawXPdR_MFmp4EcYCbbn8ZBQ
+Fri May 10 13:18:26 IST 2024
+/
+false
+false
+_gat_gtag_UA_1248015_24
+.guru99.com
+class org.openqa.selenium.Cookie
+1
+Sun Apr 16 13:19:25 IST 2023
+/
+false
+false
+_ga
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.1051201126.1681631306
+Mon May 20 13:18:25 IST 2024
+/
+false
+false
+__gads
+.guru99.com
+class org.openqa.selenium.Cookie
+ID=62b09ea5c453ffdf:T=1681631306:S=ALNI_MYoB-9s1EgTMsMD5J9wtErCwIWjrQ
+Fri May 10 13:18:26 IST 2024
+/
+false
+false
+_gid
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.1215228874.1681631306
+Mon Apr 17 13:18:25 IST 2023
+/
+false
+false
+_sharedid
+.guru99.com
+class org.openqa.selenium.Cookie
+09a1e5b3-865b-4810-af26-6be9dbadfb2f
+Mon Apr 15 13:18:24 IST 2024
+/
+false
+false
+Registration Code
+Registration Complete
+Url Passed
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681631530.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 01:22:10 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+7Bb0I7vSlorkem7MvwSHZRuyvv9eRUHBkxpq31TzHhUGQUKVoPzBLC_B0jDOUf36rOOOtQ6GNZGfYxTYmPA5vWxBfXg3qWkkBnoH-ImQ8kE1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+acdee3eb-09b1-4ba5-9c37-73b5d76a306c
+Mon Apr 15 13:22:05 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Sun Apr 16 13:32:10 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1.10.1681631530
+Sun Apr 16 13:52:10 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.560372002.1681631530.1681631530.1681631530.1
+Mon May 20 13:22:10 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Main Login
+Gender Button Click
+First Name
+Last Name
+Email
+PassWord
+Confirm Password
+Submit
+Login Complete on DemoWebShop
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681631530.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 01:22:13 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+7Bb0I7vSlorkem7MvwSHZRuyvv9eRUHBkxpq31TzHhUGQUKVoPzBLC_B0jDOUf36rOOOtQ6GNZGfYxTYmPA5vWxBfXg3qWkkBnoH-ImQ8kE1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+acdee3eb-09b1-4ba5-9c37-73b5d76a306c
+Mon Apr 15 13:22:12 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Sun Apr 16 13:32:10 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.2.10.1681631530
+Sun Apr 16 13:52:13 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.560372002.1681631530.1681631530.1681631530.1
+Mon May 20 13:22:13 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Mercury Registration
+10
+lotame_domain_check
+.guru99.com
+class org.openqa.selenium.Cookie
+guru99.com
+Sun Apr 16 13:22:33 IST 2023
+/
+false
+false
+panoramaId_expiry
+.guru99.com
+class org.openqa.selenium.Cookie
+1681717944731
+Mon Apr 17 13:22:25 IST 2023
+/
+false
+false
+_pbjs_userid_consent_data
+demo.guru99.com
+class org.openqa.selenium.Cookie
+6683316680106290
+Tue May 16 13:22:20 IST 2023
+/
+false
+false
+_cc_id
+.guru99.com
+class org.openqa.selenium.Cookie
+c7154403f0ee763d267cc6231cdfedff
+Thu Jan 11 13:22:24 IST 2024
+/
+false
+false
+__gpi
+.guru99.com
+class org.openqa.selenium.Cookie
+UID=00000bf60445001f:T=1681631541:RT=1681631541:S=ALNI_MZZPLiXjFKtsJdTvIr94vdisrJPHQ
+Fri May 10 13:22:21 IST 2024
+/
+false
+false
+_gat_gtag_UA_1248015_24
+.guru99.com
+class org.openqa.selenium.Cookie
+1
+Sun Apr 16 13:23:20 IST 2023
+/
+false
+false
+_ga
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.956795459.1681631541
+Mon May 20 13:22:20 IST 2024
+/
+false
+false
+__gads
+.guru99.com
+class org.openqa.selenium.Cookie
+ID=c57b353d96b2c836:T=1681631541:S=ALNI_MYs9uo2KqOo0CQuSxlVzIxbwIGtjw
+Fri May 10 13:22:21 IST 2024
+/
+false
+false
+_gid
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.877715806.1681631541
+Mon Apr 17 13:22:20 IST 2023
+/
+false
+false
+_sharedid
+.guru99.com
+class org.openqa.selenium.Cookie
+edb0202f-d87c-482a-b73d-447c110300dc
+Mon Apr 15 13:22:20 IST 2024
+/
+false
+false
+Registration Code
+Registration Complete
+Url Passed
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681631988.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 01:29:48 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+2WOwW6llPhkarrVJPOVXsNkplR8jtlmzhz8NMtWsgQQZoLEYrp34oe4f31Ed42IKoSy_TjhIk8xFjG5NTc4AERG6FkeHkHZeQQbx8m2QWdQ1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+dae01251-044f-474b-b1db-e38bb894d92b
+Mon Apr 15 13:29:28 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Sun Apr 16 13:39:48 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1.10.1681631988
+Sun Apr 16 13:59:48 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1226161119.1681631988.1681631988.1681631988.1
+Mon May 20 13:29:48 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Main Login
+Gender Button Click
+First Name
+Last Name
+Email
+PassWord
+Confirm Password
+Submit
+Login Complete on DemoWebShop
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681631988.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 01:29:52 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+2WOwW6llPhkarrVJPOVXsNkplR8jtlmzhz8NMtWsgQQZoLEYrp34oe4f31Ed42IKoSy_TjhIk8xFjG5NTc4AERG6FkeHkHZeQQbx8m2QWdQ1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+dae01251-044f-474b-b1db-e38bb894d92b
+Mon Apr 15 13:29:50 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Sun Apr 16 13:39:48 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.2.10.1681631988
+Sun Apr 16 13:59:52 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1226161119.1681631988.1681631988.1681631988.1
+Mon May 20 13:29:52 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Mercury Registration
+14
+usprivacy
+demo.guru99.com
+class org.openqa.selenium.Cookie
+1---
+Fri May 10 13:30:19 IST 2024
+/
+false
+false
+_pbjs_userid_consent_data
+demo.guru99.com
+class org.openqa.selenium.Cookie
+6683316680106290
+Tue May 16 13:30:09 IST 2023
+/
+false
+false
+_cc_id
+.guru99.com
+class org.openqa.selenium.Cookie
+ab1aa4787b7050fc806d4ee0b456292
+Thu Jan 11 13:30:21 IST 2024
+/
+false
+false
+__gpi
+.guru99.com
+class org.openqa.selenium.Cookie
+UID=00000bf604604fca:T=1681632017:RT=1681632017:S=ALNI_MYRXuT2o5Hk_xBgkGaItry-XkdcMQ
+Fri May 10 13:30:17 IST 2024
+/
+false
+false
+_gat_gtag_UA_1248015_24
+.guru99.com
+class org.openqa.selenium.Cookie
+1
+Sun Apr 16 13:31:12 IST 2023
+/
+false
+false
+__gads
+.guru99.com
+class org.openqa.selenium.Cookie
+ID=3000491bf6ba843c:T=1681632017:S=ALNI_MY_vI4BqCFI_mnlg2ZytdeCaaK3HA
+Fri May 10 13:30:17 IST 2024
+/
+false
+false
+_gid
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.1127137940.1681632013
+Mon Apr 17 13:30:12 IST 2023
+/
+false
+false
+_sharedid
+.guru99.com
+class org.openqa.selenium.Cookie
+0e8614c0-f9d9-453a-9f4f-c59ae3a9a5e6
+Mon Apr 15 13:30:09 IST 2024
+/
+false
+false
+geo-location
+demo.guru99.com
+class org.openqa.selenium.Cookie
+{"country":"IN","region":"MH"}
+Mon Apr 17 13:30:18 IST 2023
+/
+false
+false
+lotame_domain_check
+.guru99.com
+class org.openqa.selenium.Cookie
+guru99.com
+Sun Apr 16 13:30:29 IST 2023
+/
+false
+false
+ccpa-dau
+demo.guru99.com
+class org.openqa.selenium.Cookie
+true
+Mon Apr 17 13:30:22 IST 2023
+/
+false
+false
+panoramaId_expiry
+.guru99.com
+class org.openqa.selenium.Cookie
+1681718421692
+Mon Apr 17 13:30:22 IST 2023
+/
+false
+false
+_ga
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.903915830.1681632013
+Mon May 20 13:30:12 IST 2024
+/
+false
+false
+cto_bundle
+.guru99.com
+class org.openqa.selenium.Cookie
+daplpF9sTjJheGJ1Nnc1Y3ElMkZiS1Bxdm9oaTJ3RnFnSk9WdTZZU0FaOWljMDlCZG83c0ljQzZiVFh0M2dkQnZjTkZBNUNhUHZyZiUyQkJTaTFCZUVxakduV0pla09ybkZ4ZTdUT3hCZ3pZWEFURDh0MG5leTJFVWViMFBENWVMNnY4UHFUc2ZyYjFMM0c2R2lPa29PY0hjU2VERVVRJTNEJTNE
+Fri May 10 13:30:23 IST 2024
+/
+false
+false
+Registration Code
+Registration Complete
+Url Passed
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681699401.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 20:13:20 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+2BCpBNIy--EQXTFFgOq5OQMzsccP8eMUHBeXQavMJDiXUoRx83K_3C-Qdd2MiZxSc8nrjuHLbkzrxlG7TudmNfYHnIX0yPyFFLxOm2a7T4k1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+25ee0405-e12c-47a6-bb80-6494277dc4ec
+Tue Apr 16 08:13:19 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Mon Apr 17 08:23:20 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1.10.1681699401
+Mon Apr 17 08:43:20 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1388690261.1681699401.1681699401.1681699401.1
+Tue May 21 08:13:20 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Main Login
+Gender Button Click
+First Name
+Last Name
+Email
+PassWord
+Confirm Password
+Submit
+Login Complete on DemoWebShop
+__utmz
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1681699401.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Mon Oct 16 20:13:24 IST 2023
+false
+false
+__RequestVerificationToken
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+2BCpBNIy--EQXTFFgOq5OQMzsccP8eMUHBeXQavMJDiXUoRx83K_3C-Qdd2MiZxSc8nrjuHLbkzrxlG7TudmNfYHnIX0yPyFFLxOm2a7T4k1
+
+true
+false
+Nop.customer
+demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+25ee0405-e12c-47a6-bb80-6494277dc4ec
+Tue Apr 16 08:13:23 IST 2024
+true
+false
+__utmt
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+1
+Mon Apr 17 08:23:20 IST 2023
+false
+false
+ARRAffinitySameSite
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+__utmb
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.2.10.1681699401
+Mon Apr 17 08:43:24 IST 2023
+false
+false
+__utmc
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081
+
+false
+false
+__utma
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+78382081.1388690261.1681699401.1681699401.1681699401.1
+Tue May 21 08:13:24 IST 2024
+false
+false
+ARRAffinity
+.demowebshop.tricentis.com
+class org.openqa.selenium.Cookie
+/
+0af881e3c02388d83beb16af93149575b7651628d4dcf5292ac027a43a45a5d3
+
+true
+true
+Mercury Registration
+10
+lotame_domain_check
+.guru99.com
+class org.openqa.selenium.Cookie
+guru99.com
+Mon Apr 17 08:13:40 IST 2023
+/
+false
+false
+panoramaId_expiry
+.guru99.com
+class org.openqa.selenium.Cookie
+1681785811869
+Tue Apr 18 08:13:32 IST 2023
+/
+false
+false
+_pbjs_userid_consent_data
+demo.guru99.com
+class org.openqa.selenium.Cookie
+6683316680106290
+Wed May 17 08:13:28 IST 2023
+/
+false
+false
+_cc_id
+.guru99.com
+class org.openqa.selenium.Cookie
+b736f6b1a5f603076fb564db46b6e107
+Fri Jan 12 08:13:30 IST 2024
+/
+false
+false
+__gpi
+.guru99.com
+class org.openqa.selenium.Cookie
+UID=00000bf63ea9f897:T=1681699410:RT=1681699410:S=ALNI_MYLXaNGIukKdPqwEiBHrfAxWR5g0A
+Sat May 11 08:13:30 IST 2024
+/
+false
+false
+_gat_gtag_UA_1248015_24
+.guru99.com
+class org.openqa.selenium.Cookie
+1
+Mon Apr 17 08:14:28 IST 2023
+/
+false
+false
+_ga
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.1570278672.1681699409
+Tue May 21 08:13:28 IST 2024
+/
+false
+false
+__gads
+.guru99.com
+class org.openqa.selenium.Cookie
+ID=12142e0e33823d6f:T=1681699410:S=ALNI_MZYUhcc8Pu29-SHhkjUSitjaRRAPQ
+Sat May 11 08:13:30 IST 2024
+/
+false
+false
+_gid
+.guru99.com
+class org.openqa.selenium.Cookie
+GA1.2.504501643.1681699409
+Tue Apr 18 08:13:28 IST 2023
+/
+false
+false
+_sharedid
+.guru99.com
+class org.openqa.selenium.Cookie
+baecaa6e-1fff-40f5-856c-fdfcc57633f4
+Tue Apr 16 08:13:28 IST 2024
+/
+false
+false
+Registration Code
+Registration Complete
